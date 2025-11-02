@@ -5,8 +5,10 @@ Bienvenidos al espacio de trabajo del **Grupo 1** de la materia **Gestión del D
 Aquí centralizamos el código y la documentación de nuestros proyectos.
 
 ## 📌 Información de la materia
-📍 Universidad de Buenos Aires – Facultad de Ingeniería  
-📚 Materia: Gestión del Desarrollo de Sistemas Informáticos 
+📍 Universidad de Buenos Aires – Facultad de Ingeniería 
+
+📚 Materia: Gestión del Desarrollo de Sistemas Informáticos
+
 📅 Año: 2025
 
 ## 🎯 Objetivos de la Organización
