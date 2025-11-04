@@ -56,7 +56,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
       <sub>📧 isuarezp@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
-      <img src="../img/catarina.jpg" width="120px" style="border-radius:50%"><br>
+      <img src="../img/catarina.jpeg" width="120px" style="border-radius:50%"><br>
       <b>Valdatta Catarina</b><br>
       <sub>🎓 Padrón: 110533</sub><br>
       <sub>📧 cvaldatta@fi.uba.ar</sub>
